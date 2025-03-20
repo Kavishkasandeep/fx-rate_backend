@@ -1,0 +1,14 @@
+com\example\demo\dto\FxRateDto.class
+com\example\demo\dto\Cheques.class
+com\example\demo\dto\Currency.class
+com\example\demo\dto\TelegraphicTransfers.class
+com\example\demo\controller\FxRateController.class
+com\example\demo\repository\FxRateRepository.class
+com\example\demo\entity\FxRateEntity.class
+com\example\demo\FxRateApplication.class
+com\example\demo\service\FxRateServiceImpl.class
+com\example\demo\dto\Data.class
+com\example\demo\dto\Rates.class
+com\example\demo\dto\RateResponse.class
+com\example\demo\dto\MsgResponse.class
+com\example\demo\service\FxRateService.class
