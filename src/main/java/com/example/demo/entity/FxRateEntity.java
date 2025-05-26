@@ -17,9 +17,7 @@ public class FxRateEntity {
     private double buyingRate;
 
 
-    public FxRateEntity() {}
-
-    public FxRateEntity(Long id,String date,String exCode, String description, String code, String currency, double sellingRate, double buyingRate) {
+    public FxRateEntity() {
         this.id = id;
         this.date = date;
         this.exCode = exCode;

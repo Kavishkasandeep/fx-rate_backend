@@ -36,9 +36,9 @@ public class FxRateServiceImpl implements FxRateService {
             Cheques cheques = new Cheques();
             Currency currency = new Currency();
             TelegraphicTransfers telegraphicTransfers = new TelegraphicTransfers();
-
-
             RateResponse rateResponse = new RateResponse();
+
+
             rateResponse.setExCode(fxRate.getExCode());
             rateResponse.setDescription(fxRate.getDescription());
             rateResponse.setCode(fxRate.getCode());
